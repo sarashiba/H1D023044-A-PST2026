@@ -23,7 +23,7 @@ Proses komunikasi dari input hingga aksi perangkat keras berjalan melalui tahapa
 
 ## 3. Modifikasi Program (LED Blink input '2')
 Hasil Modifikasi:
-![Hasil modifikasi](modifikasi_UART.gif)
+![Hasil modifikasi](modul3/modifikasi_UART.gif)
 
 **Kode Program:**
 ```cpp
